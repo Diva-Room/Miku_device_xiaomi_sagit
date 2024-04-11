@@ -2,13 +2,13 @@
   { 
     "repository"   : "Miku_device_xiaomi_msm8998-common",
     "target_path"  : "device/xiaomi/msm8998-common",
-    "branch"       : "Udon",
+    "branch"       : "Udon_v2",
     "remote"       : "diva"
   },
   {
     "repository"   : "Miku_vendor_xiaomi_sagit",
     "target_path"  : "vendor/xiaomi/sagit",
-    "branch"       : "Udon",
+    "branch"       : "Udon_v2",
     "remote"       : "diva"
   }
 ]
