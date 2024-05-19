@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/miku_sagit.mk
-
-COMMON_LUNCH_CHOICES := \
-    miku_sagit-user \
-    miku_sagit-userdebug \
-    miku_sagit-eng
